@@ -1,0 +1,27 @@
+.c-aquamarine{
+    color: aquamarine;
+}
+.text-center{
+    text-align: center;
+}
+.bg-antiquewhite{
+    background-color: antiquewhite;
+}
+.text-24px{
+    font-size: 24px;
+}
+.text-12px{
+    font-size: 12px;
+}
+.text-18px{
+    font-size: 18px;
+}
+#fontweight{
+    font-weight: 600;
+}
+h1 h4{
+    color: brown;
+}
+a{
+    color: cornflowerblue;
+}
